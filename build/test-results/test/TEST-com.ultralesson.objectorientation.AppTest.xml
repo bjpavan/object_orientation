@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ultralesson.objectorientation.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-19T06:51:16" hostname="TestVagrants-MacBook-Pro-3.local" time="0.007">
+  <properties/>
+  <testcase name="appHasAGreeting" classname="com.ultralesson.objectorientation.AppTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
